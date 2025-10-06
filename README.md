@@ -1,3 +1,5 @@
+# Crime Forecasting and Classification in South Africa
+
 # Overview
 This project focuses on analyzing South African crime data and economic indicators to classify crime hotspots and forecast future crime trends. Using machine learning models such as Random Forest for classification and ARIMA for time series forecasting, the notebook demonstrates a complete workflow: from data collection, cleaning, and exploratory analysis, to feature engineering, modeling, evaluation, and drone simulation for hotspot monitoring.
 
